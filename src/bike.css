@@ -1,0 +1,150 @@
+
+.Header{
+    background-color: #939393;
+    height: 35px;
+}
+
+.Logo{
+    display: block;
+    height:30px;
+    width:50px;
+    font-size: 50px;
+    padding-left: 10%;
+    padding-top: 1%;
+    font-style: normal;
+    text-decoration: chocolate;
+}
+.Heads{
+    display: inline-block;
+    float: left;
+    max-width: 40%;
+    margin-top: 12%;
+    margin-left: 5%;
+    margin-right: 8%;
+    
+}
+
+#Details{
+    font-weight:normal;
+    font-size: 70px;
+    padding-left: 10%;
+    font-family: unset;
+}
+
+.bg{
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.Footer{
+    background-color: white;
+    padding-top: 6%;
+    padding-left: 6% ;
+    font-weight: bold;
+    position: relative;
+    z-index: 10;
+    top: -105px;
+    right: -10%;
+    max-width: 91%;
+    overflow-x: hidden;
+}
+
+.icon-1{
+    height: 10%;
+    width: 10%;
+    margin-top: 5%;
+}
+
+.icon-2{
+    height: 10%;
+    width: 10%;
+    margin-left: 23%;
+    margin-top: 5%;
+}
+
+.icon-3{
+    height: 10%;
+    width: 10%;
+    margin-left: 23%;
+    margin-top: 5%;
+}
+
+.para{
+    display: inline-block;
+}
+.h-1{
+    display: inline-block;
+    float: left;
+    margin-top: 3%;
+    font-size: 25px;
+    width: 23%;
+    
+}
+
+.p-1{
+    display: inline-block;
+    float: left;
+    margin-top: 2%;
+    width: 23%;
+    font-weight: lighter;
+    
+}
+
+
+.h-2{
+    display: inline-block;
+    float: left;
+    margin-top: 3%;
+    margin-left: 10%;
+    font-size: 25px;
+    width: 23%;
+    
+}
+
+.p-2{
+    display: inline-block;
+    float: left;
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 23%;
+    font-weight: lighter;
+}
+
+.h-3{
+    display: inline-block;
+    float: left;
+    margin-top: 3%;
+    margin-left: 10%;
+    font-size: 25px;
+    width: 23%;
+    
+}
+
+.p-3{
+
+    display: inline-block;
+    float: left;
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 23%;
+    font-weight: lighter;
+}
+
+
+.Foot{
+    background-color: #939393;
+    height: 200px;
+    
+}
+
+.inc{
+    text-decoration: black;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+
