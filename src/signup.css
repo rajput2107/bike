@@ -5,9 +5,10 @@
   .App__Form {
     display: inline-block;
     float: left;
+    border-top: 10px solid #f1f1f1;
     width: 60%;
     height: 80%;
-    background-color: #2E4158;
+    background-color: #f8f8f9;
     
     overflow: auto;
     position: absolute;
