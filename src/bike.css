@@ -19,16 +19,13 @@
     float: left;
     max-width: 40%;
     margin-top: 12%;
-    margin-left: 5%;
-    margin-right: 8%;
+    padding-left: 10%;
     
 }
 
 #Details{
-    font-weight:normal;
-    font-size: 70px;
-    padding-left: 10%;
-    font-family: unset;
+    
+    font-size: 50px;
 }
 
 .bg{
@@ -37,6 +34,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin-top: 7%;
     
 }
 

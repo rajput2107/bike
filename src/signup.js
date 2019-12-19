@@ -71,12 +71,12 @@ export default class Signup extends React.Component{
 
       <div className="Header"></div>
 
-      <a href="#" className="Logo" > Biker</a>
+      <a href="#" className="Logo" > Bikerwiker</a>
 
       <div className="Heads" >
       <h1 id="Details" >Drive with Bikers</h1>
-      <h1 id="Details">Travel on your </h1>
-      <h1 id="Details">Schedule</h1>
+      <h1 id="Details">Travel on your Schedule </h1>
+      <h1 id="Details"></h1>
       </div>
 
 
