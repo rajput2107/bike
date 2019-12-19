@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, NavLink } from 'react-router-dom';
 import './bike.css';
-import bg from './bk.jpg';
+import bg from './wall.jpg';
 import a from './a.png';
 import b from './b.png';
 import c from './c.png';
